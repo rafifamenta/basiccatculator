@@ -1,0 +1,16 @@
+.component-display {
+  background: #a36ad4;
+  color: #f9f5f5;
+  text-align: center;
+  padding: 15px 10px;
+  width: 100%;
+  margin: 0;
+}
+
+.component-display>div {
+  font-size: 2em;
+  padding: 10px;
+  font-weight: bold;
+  width: 100%;
+  margin: 0;
+}
